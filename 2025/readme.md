@@ -9,18 +9,28 @@ USF’s Power Program: R&D and Workforce Training [link]
 [link]:USF%20power%20forum.pdf
 
 ## ESIG Spring 2025 Technical Workshop
-Feedback and Oscillations:
+[Feedback and Oscillations:]
 How to conduct effective root cause analysis (RCA)?
 
+[Feedback and Oscillations:]:LFan_2025_ESIG%20v1.pdf
+
 ## NERC IPRS April 17,2025  
-Fault Current Characteristics of IBR- Penetrated Grids
+Fault Current Characteristics of IBR- Penetrated Grids [link]
+
+[link]:IBR%20Fault%20Behavior_04172025.pdf
 
 ## NERC IRPS May 15, 2025
-Retrofit grid-following converter control to grid-forming control using the same hardware/sensors
+Retrofit grid-following converter control to grid-forming control using the same hardware/sensors [link]
+
+[link]: 052025_NERC.pdf
 
 ## MIT Energy & Infrastructure Systems: Modeling, Computing, and Control (EIMC2) Seminar Series
 May 1, 2025
-Connect Control Theory with the Practical World: Replication of power grid dynamic events & control design for inverter-based resources
+Connect Control Theory with the Practical World: Replication of power grid dynamic events & control design for inverter-based resources [link]
+
+[link]:Fan_MITtalk_v1.pdf
 
 ## NERC IPRS Aug. 21,2025 Presentation: 
-Speculation on the 23-Hz oscillations in ERCOT due to large loads 
+Speculation on the 23-Hz oscillations in ERCOT due to large loads [link]
+
+[link]: 082025_NERC.pdf
