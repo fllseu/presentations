@@ -1,7 +1,7 @@
 ## Johns Hopkins invited seminar, Jan 28, 2025
-Innovations in Power Grid Dynamic Modeling and Analysis [link]
+[Innovations in Power Grid Dynamic Modeling and Analysis]
 
-[link]:JHUtalk%20lfan.pdf
+[Innovations in Power Grid Dynamic Modeling and Analysis]:JHUtalk%20lfan.pdf
 
 ## USF Power Forum
 [USF’s Power Program: R&D and Workforce Training]
@@ -25,9 +25,9 @@ How to conduct effective root cause analysis (RCA)?
 [Retrofit grid-following converter control to grid-forming control using the same hardware/sensors]: 052025_NERC.pdf
 
 ## MIT EIMC2 Seminar Series, May 1, 2025
-[Connect Control Theory with the Practical World: Replication of power grid dynamic events & control design for inverter-based resources]
+[Connect Control Theory with the Practical World]- Replication of power grid dynamic events & control design for inverter-based resources
 
-[Connect Control Theory with the Practical World: Replication of power grid dynamic events & control design for inverter-based resources]:Fan_MITtalk_v1.pdf
+[Connect Control Theory with the Practical World]:Fan_MITtalk_v1.pdf
 
 ## NERC IPRS Aug. 21,2025 Presentation: 
 [Speculation on the 23-Hz oscillations in ERCOT due to large loads]
