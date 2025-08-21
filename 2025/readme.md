@@ -1,10 +1,10 @@
 ## Johns Hopkins invited seminar, Jan 28, 2025
 Innovations in Power Grid Dynamic Modeling and Analysis [link]
-[link]:https://github.com/fllseu/presentations/blob/main/2025/JHUtalk%20lfan.pdf
+[link]:(https://github.com/fllseu/presentations/blob/main/2025/JHUtalk%20lfan.pdf)
 
 ## USF Power Forum
 USF’s Power Program: R&D and Workforce Training [link]
-[link]::https://github.com/fllseu/presentations/blob/main/2025/USF%20power%20forum.pdf 
+[link]:(https://github.com/fllseu/presentations/blob/main/2025/USF%20power%20forum.pdf)
 
 ## ESIG Spring 2025 Technical Workshop
 Feedback and Oscillations:
